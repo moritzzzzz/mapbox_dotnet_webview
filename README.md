@@ -12,6 +12,9 @@ A Windows desktop application that displays Mapbox maps using the Mapbox GL JS l
 - **Driver Animation** - Animate a driver marker moving along displayed routes with configurable speed
 - Support for all Mapbox style URLs and custom styles
 
+<img width="1221" height="858" alt="image" src="https://github.com/user-attachments/assets/ba0321d6-adc7-429b-9ebe-e9af8e96fa55" />
+
+
 ## Requirements
 
 - .NET 8.0 or higher
